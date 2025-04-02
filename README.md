@@ -1,1 +1,1 @@
-"# .github" 
+用來定義每個 repo 中 default 的 pr 模板
